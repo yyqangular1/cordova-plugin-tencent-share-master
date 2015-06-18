@@ -3,6 +3,9 @@
 
 ## Using the plugin
 
+Install plugin
+ionic plugin add https://github.com/yyqangular1/cordova-plugin-tencent-share-master.git
+
 Example -share to qq friend
 ```javascript
 TencentShare.qqShare({
