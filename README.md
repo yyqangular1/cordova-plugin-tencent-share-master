@@ -10,7 +10,7 @@ Example -share to qq friend
 ```javascript
 TencentShare.qqShare({
     "appid": "222222",
-    "title": "好班（买家版）",
+    "title": "好班（用户版）",
     "summary": "好班，一个专注于教育辅导的App",
     "image_url": "http://static.xuexiba.com/html_v3/images/w_logo.png",
     "target_url": "http://www.xuexiba.com"
@@ -24,7 +24,7 @@ Example -share to qzone
 ```javascript
 TencentShare.qzoneShare({
     "appid": "222222",
-    "title": "好班（买家版）",
+    "title": "好班（用户版）",
     "summary": "好班，一个专注于教育辅导的App",
     "image_url": "http://static.xuexiba.com/html_v3/images/w_logo.png",
     "target_url": "http://www.xuexiba.com"
